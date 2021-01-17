@@ -1,0 +1,15 @@
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\bin\Debug\ListingDevices.exe.config
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\bin\Debug\ListingDevices.exe
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\bin\Debug\ListingDevices.pdb
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\bin\Debug\DirectShowLib.dll
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\bin\Debug\DirectShowLib.pdb
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\obj\Debug\ListingDevices.csprojAssemblyReference.cache
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\obj\Debug\ListingDevices.Form1.resources
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\obj\Debug\ListingDevices.Properties.Resources.resources
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\obj\Debug\ListingDevices.csproj.GenerateResource.cache
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\obj\Debug\ListingDevices.csproj.CoreCompileInputs.cache
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\obj\Debug\ListingDevices.csproj.CopyComplete
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\obj\Debug\ListingDevices.exe
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\obj\Debug\ListingDevices.pdb
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marck\source\repos\ListingDevices\ListingDevices\bin\Debug\Newtonsoft.Json.xml

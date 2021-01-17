@@ -1,0 +1,212 @@
+[
+  {
+    "category": "video",
+    "name": "FaceTime HD Camera (Built-in)",
+    "path": "@device:pnp:\\\\?\\usb#vid_05ac&pid_8514&mi_00#7&292270df&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+    "id": "FaceTime HD Camera (Built-in):\\\\?\\usb#vid_05ac&pid_8514&mi_00#7&292270df&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global"
+  },
+  {
+    "category": "video",
+    "name": "EF Digital Studio Camera",
+    "path": "@device:sw:{860BB310-5D01-11D0-BD3B-00A0C911CE86}\\{A3FCE0F5-3493-419F-958A-ABA1250EC20B}",
+    "id": "EF Digital Studio Camera:"
+  },
+  {
+    "category": "audioInput",
+    "name": "Mic In (3 — Elgato Wave:1)",
+    "path": "@device:cm:{33D9A762-90C8-11D0-BD43-00A0C911CE86}\\wave:{C6F4BF18-BAFA-4E2E-A299-B65EA7E2F6C6}",
+    "id": "Mic In (3 — Elgato Wave:1):\\wave:{C6F4BF18-BAFA-4E2E-A299-B65EA7E2F6C6}"
+  },
+  {
+    "category": "audioInput",
+    "name": "Wave Link Stream (3 — Elgato Wave:1)",
+    "path": "@device:cm:{33D9A762-90C8-11D0-BD43-00A0C911CE86}\\wave:{0E4E60D9-E595-4C9B-808E-D12130EDFC7F}",
+    "id": "Wave Link Stream (3 — Elgato Wave:1):\\wave:{0E4E60D9-E595-4C9B-808E-D12130EDFC7F}"
+  },
+  {
+    "category": "audioInput",
+    "name": "Wave Link Monitor (3 — Elgato Wave:1)",
+    "path": "@device:cm:{33D9A762-90C8-11D0-BD43-00A0C911CE86}\\wave:{82C8628D-A9B8-4DAE-912A-A71A9A5FDD85}",
+    "id": "Wave Link Monitor (3 — Elgato Wave:1):\\wave:{82C8628D-A9B8-4DAE-912A-A71A9A5FDD85}"
+  },
+  {
+    "category": "audioInput",
+    "name": "Internal Digital Microphone (Apple Audio Device)",
+    "path": "@device:cm:{33D9A762-90C8-11D0-BD43-00A0C911CE86}\\wave:{8E5E4345-E118-447D-AFFE-4DAC0CC4CF3E}",
+    "id": "Internal Digital Microphone (Apple Audio Device):\\wave:{8E5E4345-E118-447D-AFFE-4DAC0CC4CF3E}"
+  },
+  {
+    "category": "audioInput",
+    "name": "VoiceMeeter Output (VB-Audio VoiceMeeter VAIO)",
+    "path": "@device:cm:{33D9A762-90C8-11D0-BD43-00A0C911CE86}\\wave:{B2F8EEA0-2585-4B3A-8889-C05F45A0C2D3}",
+    "id": "VoiceMeeter Output (VB-Audio VoiceMeeter VAIO):\\wave:{B2F8EEA0-2585-4B3A-8889-C05F45A0C2D3}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "Słuchawki (Apple Audio Device)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\wave:{7E22FB8D-6249-4FBA-890D-34821F62E856}",
+    "id": "Słuchawki (Apple Audio Device):\\wave:{7E22FB8D-6249-4FBA-890D-34821F62E856}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "Default DirectSound Device",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Default DirectSound Device",
+    "id": "Default DirectSound Device:\\Default DirectSound Device"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "Default WaveOut Device",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Default WaveOut Device",
+    "id": "Default WaveOut Device:\\Default WaveOut Device"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "DirectSound: 2 - LG Ultra HD (AMD High Definition Audio Device)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound:{23D63765-9331-4049-804F-248BEE19117B}",
+    "id": "DirectSound: 2 - LG Ultra HD (AMD High Definition Audio Device):\\DirectSound:{23D63765-9331-4049-804F-248BEE19117B}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "DirectSound: Wave Link Game (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound:{47BCDA9B-327F-49FF-B62C-CD2F88CE5566}",
+    "id": "DirectSound: Wave Link Game (3 — Elgato Wave:1):\\DirectSound:{47BCDA9B-327F-49FF-B62C-CD2F88CE5566}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "DirectSound: Wave Link Browser (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound:{4C729397-B2EB-4D0E-945B-FE2EBA2F1C7F}",
+    "id": "DirectSound: Wave Link Browser (3 — Elgato Wave:1):\\DirectSound:{4C729397-B2EB-4D0E-945B-FE2EBA2F1C7F}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "DirectSound: Wave Link SFX (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound:{5543FC87-C57F-4D35-B86D-AA648E9E2A87}",
+    "id": "DirectSound: Wave Link SFX (3 — Elgato Wave:1):\\DirectSound:{5543FC87-C57F-4D35-B86D-AA648E9E2A87}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "DirectSound: VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound:{5B18F0FF-7792-482C-91A1-ABB6E1240D0F}",
+    "id": "DirectSound: VoiceMeeter Input (VB-Audio VoiceMeeter VAIO):\\DirectSound:{5B18F0FF-7792-482C-91A1-ABB6E1240D0F}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "DirectSound: Wave Link Voice Chat (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound:{7C0B18DC-1E44-41AE-85B2-8575EA5AC5B2}",
+    "id": "DirectSound: Wave Link Voice Chat (3 — Elgato Wave:1):\\DirectSound:{7C0B18DC-1E44-41AE-85B2-8575EA5AC5B2}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "DirectSound: Słuchawki (Apple Audio Device)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound:{7E22FB8D-6249-4FBA-890D-34821F62E856}",
+    "id": "DirectSound: Słuchawki (Apple Audio Device):\\DirectSound:{7E22FB8D-6249-4FBA-890D-34821F62E856}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "DirectSound: Wave Link Music (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound:{8C97F2A0-D8C1-44A1-B4E3-FBE7220C6054}",
+    "id": "DirectSound: Wave Link Music (3 — Elgato Wave:1):\\DirectSound:{8C97F2A0-D8C1-44A1-B4E3-FBE7220C6054}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "DirectSound: Wave Link Aux 1 (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound:{A029B34B-A887-485B-8592-2ADE336C3F29}",
+    "id": "DirectSound: Wave Link Aux 1 (3 — Elgato Wave:1):\\DirectSound:{A029B34B-A887-485B-8592-2ADE336C3F29}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "DirectSound: Wave Link Aux 2 (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound:{E13E38E6-D9A1-4527-B597-55A33AFD4250}",
+    "id": "DirectSound: Wave Link Aux 2 (3 — Elgato Wave:1):\\DirectSound:{E13E38E6-D9A1-4527-B597-55A33AFD4250}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "DirectSound: Głośniki (Apple Audio Device)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound:{EC138DB5-FD55-4633-A630-ED4C5AB8178E}",
+    "id": "DirectSound: Głośniki (Apple Audio Device):\\DirectSound:{EC138DB5-FD55-4633-A630-ED4C5AB8178E}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "DirectSound: Wave Link System (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound:{F53C51D4-9581-4E61-84E1-ECDDEA413CC7}",
+    "id": "DirectSound: Wave Link System (3 — Elgato Wave:1):\\DirectSound:{F53C51D4-9581-4E61-84E1-ECDDEA413CC7}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "DirectSound: Headphones (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound:{F8C10A1C-17B2-4A57-A398-E1B6D2BBB808}",
+    "id": "DirectSound: Headphones (3 — Elgato Wave:1):\\DirectSound:{F8C10A1C-17B2-4A57-A398-E1B6D2BBB808}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "2 - LG Ultra HD (AMD High Definition Audio Device)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\wave:{23D63765-9331-4049-804F-248BEE19117B}",
+    "id": "2 - LG Ultra HD (AMD High Definition Audio Device):\\wave:{23D63765-9331-4049-804F-248BEE19117B}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "Wave Link Game (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\wave:{47BCDA9B-327F-49FF-B62C-CD2F88CE5566}",
+    "id": "Wave Link Game (3 — Elgato Wave:1):\\wave:{47BCDA9B-327F-49FF-B62C-CD2F88CE5566}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "Wave Link Browser (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\wave:{4C729397-B2EB-4D0E-945B-FE2EBA2F1C7F}",
+    "id": "Wave Link Browser (3 — Elgato Wave:1):\\wave:{4C729397-B2EB-4D0E-945B-FE2EBA2F1C7F}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "Wave Link SFX (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\wave:{5543FC87-C57F-4D35-B86D-AA648E9E2A87}",
+    "id": "Wave Link SFX (3 — Elgato Wave:1):\\wave:{5543FC87-C57F-4D35-B86D-AA648E9E2A87}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\wave:{5B18F0FF-7792-482C-91A1-ABB6E1240D0F}",
+    "id": "VoiceMeeter Input (VB-Audio VoiceMeeter VAIO):\\wave:{5B18F0FF-7792-482C-91A1-ABB6E1240D0F}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "Wave Link Voice Chat (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\wave:{7C0B18DC-1E44-41AE-85B2-8575EA5AC5B2}",
+    "id": "Wave Link Voice Chat (3 — Elgato Wave:1):\\wave:{7C0B18DC-1E44-41AE-85B2-8575EA5AC5B2}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "Wave Link Music (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\wave:{8C97F2A0-D8C1-44A1-B4E3-FBE7220C6054}",
+    "id": "Wave Link Music (3 — Elgato Wave:1):\\wave:{8C97F2A0-D8C1-44A1-B4E3-FBE7220C6054}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "Wave Link Aux 1 (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\wave:{A029B34B-A887-485B-8592-2ADE336C3F29}",
+    "id": "Wave Link Aux 1 (3 — Elgato Wave:1):\\wave:{A029B34B-A887-485B-8592-2ADE336C3F29}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "Wave Link Aux 2 (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\wave:{E13E38E6-D9A1-4527-B597-55A33AFD4250}",
+    "id": "Wave Link Aux 2 (3 — Elgato Wave:1):\\wave:{E13E38E6-D9A1-4527-B597-55A33AFD4250}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "Głośniki (Apple Audio Device)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\wave:{EC138DB5-FD55-4633-A630-ED4C5AB8178E}",
+    "id": "Głośniki (Apple Audio Device):\\wave:{EC138DB5-FD55-4633-A630-ED4C5AB8178E}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "Wave Link System (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\wave:{F53C51D4-9581-4E61-84E1-ECDDEA413CC7}",
+    "id": "Wave Link System (3 — Elgato Wave:1):\\wave:{F53C51D4-9581-4E61-84E1-ECDDEA413CC7}"
+  },
+  {
+    "category": "perhapsAudioOuput",
+    "name": "Headphones (3 — Elgato Wave:1)",
+    "path": "@device:cm:{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\wave:{F8C10A1C-17B2-4A57-A398-E1B6D2BBB808}",
+    "id": "Headphones (3 — Elgato Wave:1):\\wave:{F8C10A1C-17B2-4A57-A398-E1B6D2BBB808}"
+  }
+]
